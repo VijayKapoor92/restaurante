@@ -1,0 +1,7 @@
+$curl --header "Authorization: hey-AIzaSyCQDwKlJrmNwE4_QB67ebaf5AkHDoD_NBs" --header "Content-Type: application/json" 
+-d '{
+   "to": "eZ9xYwjKrJ4:APA91bGkp8XSjvWVoNyZSXI7KlkTG3oRMMhJr89ZZGTUBQz8-pwIJ2xJ_bor43TH2vzozU3LG02JGgShyIuDEE9IbbOuSK8qGQK7yhVCIS0NNLonOnK-VaM04CDVzsVwtNsfjt0UCXpU",
+   "data":{
+        "status":"wohoo it works"
+        }
+   }'
