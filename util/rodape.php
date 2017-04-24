@@ -9,6 +9,9 @@
 $(document).ready(function(){
 	//-- Init da tela
 	$("#menu").hide();
+	$("#menu").css({
+		"height": $(document).height()
+	});
 
 	$("#menu-toggle").on("click", function(e){
 		$("#menu").toggle("slide","fast");

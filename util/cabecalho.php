@@ -17,19 +17,15 @@
 		.navbar-white{
 			background-color: #ffffff;
 		}
+		.navbar-header{
+			margin-left: 43%;
+		}
 		#menu{
 			padding:0;
 			margin:0;
 			border: 1px solid #E0E0E0;
 			width:15%;
-			height: 100%;
-			min-height: 100%;
-		}
-		.navbar-header{
-			margin-left: 43%;
-		}
-		*:active{
-			background-color: #ffffff;
+			/*height: 100%; -> fazer com jquery */
 		}
 	</style>
 	<body>
